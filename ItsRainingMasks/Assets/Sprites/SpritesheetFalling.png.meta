@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 6bf1d2c61cf4e074a94a38dc92b71459
+timeCreated: 1471557976
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpritesheetFalling_0
+    21300002: SpritesheetFalling_1
+    21300004: SpritesheetFalling_2
+    21300006: SpritesheetFalling_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SpritesheetFalling_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1486
+        height: 1063
+      alignment: 9
+      pivot: {x: 0.35, y: 0.83}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69.74638, y: -32.78}
+        - {x: 49.746384, y: 62.22}
+        - {x: -39.253616, y: 62.22}
+        - {x: -73.25362, y: 55.22}
+        - {x: -86.25362, y: -64.78}
+        - {x: -123.25362, y: -43.78}
+        - {x: -149.25362, y: -60.78}
+        - {x: -149.25362, y: -97.78}
+        - {x: -111.25362, y: -163.78}
+        - {x: -137.25362, y: -233.78}
+        - {x: -36.253616, y: -247.78}
+        - {x: -13.253616, y: -259.78}
+        - {x: 57.746384, y: -259.78}
+        - {x: 61.746384, y: -257.78}
+        - {x: 89.74638, y: -112.78}
+        - {x: 89.74638, y: -73.78}
+      - - {x: -4.2536163, y: -203.78}
+        - {x: -1.2536163, y: -202.78}
+        - {x: -1.2536163, y: -199.78}
+        - {x: -4.2536163, y: -198.78}
+        - {x: -6.2536163, y: -200.78}
+    - name: SpritesheetFalling_1
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 0
+        width: 1486
+        height: 1063
+      alignment: 9
+      pivot: {x: 0.35, y: 0.83}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 116.888855, y: -41.78}
+        - {x: 116.888855, y: -12.779999}
+        - {x: 98.888855, y: 1.2200012}
+        - {x: 48.888855, y: 62.22}
+        - {x: -51.111145, y: 62.22}
+        - {x: -74.111145, y: 43.22}
+        - {x: -123.111145, y: -115.78}
+        - {x: -175.11115, y: -182.78}
+        - {x: -175.11115, y: -221.78}
+        - {x: -165.11115, y: -237.78}
+        - {x: -106.111145, y: -234.78}
+        - {x: -18.111145, y: -241.78}
+        - {x: 19.888855, y: -260.78}
+        - {x: 58.888855, y: -260.78}
+        - {x: 63.888855, y: -259.78}
+        - {x: 48.888855, y: -120.78}
+        - {x: 109.888855, y: -56.78}
+    - name: SpritesheetFalling_2
+      rect:
+        serializedVersion: 2
+        x: 2972
+        y: 0
+        width: 1486
+        height: 1063
+      alignment: 9
+      pivot: {x: 0.55, y: 0.83}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.70288, y: 28.220001}
+        - {x: -52.29712, y: 51.22}
+        - {x: -63.29712, y: 52.22}
+        - {x: -140.29712, y: 52.22}
+        - {x: -152.29712, y: 38.22}
+        - {x: -247.29712, y: -89.78}
+        - {x: -247.29712, y: -141.78}
+        - {x: -231.29712, y: -166.78}
+        - {x: -180.29712, y: -223.78}
+        - {x: -160.29712, y: -240.78}
+        - {x: -142.29712, y: -240.78}
+        - {x: -104.29712, y: -230.78}
+        - {x: -101.29712, y: -223.78}
+        - {x: -57.29712, y: -233.78}
+        - {x: 60.70288, y: -84.78}
+    - name: SpritesheetFalling_3
+      rect:
+        serializedVersion: 2
+        x: 4458
+        y: 0
+        width: 1486
+        height: 1063
+      alignment: 9
+      pivot: {x: 0.55, y: 0.83}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 183.84546, y: -141.78}
+        - {x: 98.84546, y: -135.78}
+        - {x: -15.154541, y: -135.78}
+        - {x: -21.154541, y: -146.78}
+        - {x: -19.154541, y: -151.78}
+        - {x: -18.154541, y: -154.78}
+        - {x: -14.154541, y: -157.78}
+        - {x: -15.154541, y: -162.78}
+        - {x: -15.154541, y: -164.78}
+        - {x: -13.154541, y: -167.78}
+        - {x: -11.154541, y: -167.78}
+        - {x: -17.154541, y: -166.78}
+        - {x: -88.15454, y: -164.78}
+        - {x: -89.15454, y: -165.78}
+        - {x: -89.15454, y: -244.78}
+        - {x: -87.15454, y: -262.78}
+        - {x: -48.15454, y: -274.78}
+        - {x: -6.154541, y: -282.78}
+        - {x: 46.84546, y: -285.78}
+        - {x: 51.84546, y: -279.78}
+        - {x: 52.84546, y: -274.78}
+        - {x: 62.84546, y: -271.78}
+        - {x: 56.84546, y: -274.78}
+        - {x: 51.84546, y: -278.78}
+        - {x: 51.84546, y: -282.78}
+        - {x: 53.84546, y: -284.78}
+        - {x: 51.84546, y: -285.78}
+        - {x: 49.84546, y: -290.78}
+        - {x: 59.84546, y: -303.78}
+        - {x: 84.84546, y: -303.78}
+        - {x: 226.84546, y: -270.78}
+        - {x: 230.84546, y: -252.78}
+        - {x: 230.84546, y: -187.78}
+        - {x: 218.84546, y: -162.78}
+      - - {x: 8.845459, y: -293.78}
+        - {x: 9.845459, y: -296.78}
+        - {x: 12.845459, y: -296.78}
+        - {x: 14.845459, y: -294.78}
+        - {x: 13.845459, y: -291.78}
+        - {x: 10.845459, y: -291.78}
+      - - {x: 20.845459, y: -292.78}
+        - {x: 23.845459, y: -291.78}
+        - {x: 23.845459, y: -288.78}
+        - {x: 20.845459, y: -287.78}
+        - {x: 18.845459, y: -289.78}
+      - - {x: 33.84546, y: -286.78}
+        - {x: 34.84546, y: -289.78}
+        - {x: 37.84546, y: -289.78}
+        - {x: 39.84546, y: -287.78}
+        - {x: 38.84546, y: -284.78}
+        - {x: 35.84546, y: -284.78}
+      - - {x: 2.845459, y: -285.78}
+        - {x: 3.845459, y: -288.78}
+        - {x: 7.845459, y: -288.78}
+        - {x: 9.845459, y: -286.78}
+        - {x: 8.845459, y: -283.78}
+        - {x: 4.845459, y: -283.78}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
